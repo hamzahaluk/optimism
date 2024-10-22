@@ -79,6 +79,7 @@ const (
 	SysLlseek        = 4140
 	SysMinCore       = 4217
 	SysTgkill        = 4266
+	SysGetRLimit     = 4076
 	// Profiling-related syscalls
 	SysSetITimer    = 4104
 	SysTimerCreate  = 4257

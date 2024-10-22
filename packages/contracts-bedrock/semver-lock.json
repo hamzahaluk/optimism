@@ -140,12 +140,12 @@
     "sourceCodeHash": "0x2ab6be69795109a1ee04c5693a34d6ce0ff90b62e404cdeb18178bab18d06784"
   },
   "src/cannon/MIPS.sol": {
-    "initCodeHash": "0x8fb590d45fa06fdc7ae55860827d6b1abf070c9dc5e18cd28176e844fa1da6c9",
+    "initCodeHash": "0xfbb8291593c625efcb0f98de0f8012eafec3af0bd121ccbaf77475dfff4dab3a",
     "sourceCodeHash": "0x01d3d59020ec29ce78f68f977da5b7754455743121bda65626509864ab6c9da9"
   },
   "src/cannon/MIPS2.sol": {
-    "initCodeHash": "0x88acf3297642c2c9e0c1e92b48f59f7015915f25fb816cac44ee0073a1c93ccb",
-    "sourceCodeHash": "0x3dd89839f268569cbf2659beb42e3ac3c53887472cfc94a6e339d2b3a963b941"
+    "initCodeHash": "0xcc4a53518219e8504f85335bea37ef51442b61dd89b206cb9ca25da1374639d4",
+    "sourceCodeHash": "0x743db4f1047f7af3efac1cc637a897ecb61ff9845d7f52a9ec79f91d21b9596b"
   },
   "src/cannon/PreimageOracle.sol": {
     "initCodeHash": "0x5d7e8ae64f802bd9d760e3d52c0a620bd02405dc2c8795818db9183792ffe81c",

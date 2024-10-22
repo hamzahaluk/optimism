@@ -501,6 +501,10 @@ library MIPSInstructions {
                 if (rtv == 1) {
                     shouldBranch = int32(_rs) >= 0;
                 }
+                if (rtv == 0x11) { // bgezal (i.e. bal mnemonic)
+                    shouldBranch = int32(_rs) >= 0;
+                    _registers[31] = _cpu.pc + 8; // always set regardless of branch taken
+                }
             }
 
             // Update the state's previous PC
